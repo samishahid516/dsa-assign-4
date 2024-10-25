@@ -1,0 +1,10 @@
+Waleed    Parent
+Dr.Adeel  Teacher
+M.Sami    Student
+Shahid    Parent
+Dr.Tamim  Teacher
+Minahil   Student
+Tariq     Parent
+Mudassir  Student
+Dr.Awais  Teacher
+Imran     Parent
